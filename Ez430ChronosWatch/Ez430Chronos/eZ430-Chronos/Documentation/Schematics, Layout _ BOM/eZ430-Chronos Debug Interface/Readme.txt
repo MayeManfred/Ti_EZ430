@@ -1,1 +1,0 @@
-The eZ430-Chronos debug interface is identical for v1.0 (black PCB) and v1.1 (white PCB).
